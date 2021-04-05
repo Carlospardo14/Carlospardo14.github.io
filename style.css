@@ -1,0 +1,36 @@
+.banner-image{
+    background-color:white;
+    background-size: cover;
+}
+
+.color-letters{
+    color: #3498DB;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #3498DB;
+}
+
+.card-header{
+    background-color:#3498DB ;
+}
+.bg-custom{
+    background-color:white ;
+}
+.btn-custom-bg{
+    background-color: #5499C7;
+    color: white;
+}
+
+@media (max-width: 480px) {
+    .sm-margin{
+        margin-bottom: 20px;
+    }
+    
+    #profile-img{
+        height: 370px;
+    }
+    .navbar-light{
+        background-color: white;
+    }
+}
